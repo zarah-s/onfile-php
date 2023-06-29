@@ -1,0 +1,57 @@
+h1{
+    color: blue;
+    height: 250px;
+    font-size: 700%;
+    opacity: 0.9;
+}
+
+span{
+    font-size: 20%;
+    position: relative;
+    top: 27%;
+}
+
+.i{
+    position: relative;
+    left: 20%;
+
+}
+
+
+.abtContent{
+    text-align: center;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+@media (max-width : 280px){
+    .responsive {
+        /* background-color: yellow; */
+        position: relative;
+        top: -50px;
+        left: 50px;
+    }
+}
+
+.notification{
+    background-color: red;
+    border-radius: 5px;
+    color: wheat;
+    padding: 2px;
+}
+
+
+.count{
+    color: rgb(20, 15, 15);
+    position: relative;
+    top: 40%;
+    left: 20%;
+}
+
+
+.c{
+    position: relative;
+    left: 15%;
+}
